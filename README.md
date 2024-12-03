@@ -9,4 +9,4 @@ cd ddos
 
 ## marka u danbaysana kici
 
-python ddos.py
+python ddos.py 192.168.50.310 80
