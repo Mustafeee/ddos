@@ -1,7 +1,8 @@
 # ddos
 
 ## marka hore ladag 
-#$ marka labaadna
+## marka labaadna
+
 cd ddos 
 
 ## marka u danbaysana kici
